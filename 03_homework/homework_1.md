@@ -76,7 +76,6 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 	-  ![01_farmers_market_conceptual_model.png](./images/01_farmers_market_conceptual_model.png)
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
-![Farmers Market Logical Data Model](https://github.com/cyberqubit/sql/assets/134016654/491caf9e-0380-432b-b67d-cba2ec4d7442)
 
-![Farmers Market Logical Data Model](https://github.com/cyberqubit/sql/assets/134016654/5cb24017-667a-4148-8215-2290ab49607d)
+![Farmers Market Logical Data Model](https://github.com/cyberqubit/sql/assets/134016654/e65ed9d4-cb44-42e3-a7e5-b63f672ec31c)
 
