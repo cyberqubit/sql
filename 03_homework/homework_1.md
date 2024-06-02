@@ -77,5 +77,6 @@ Please do not pick the exact same tables that I have already diagramed. For exam
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
 
-![Farmers Market Logical Data Model](https://github.com/cyberqubit/sql/assets/134016654/e65ed9d4-cb44-42e3-a7e5-b63f672ec31c)
+![Farmers Market Logical Data Model](https://github.com/cyberqubit/sql/assets/134016654/b2e69f27-90f7-486a-a112-985d09561c8d)
+
 
